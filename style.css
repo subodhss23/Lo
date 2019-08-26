@@ -14,7 +14,7 @@ a{
 }
 
 .header-container-second-container{
-  border:10px solid blue;
+  /* border:10px solid blue; */
   height: 90vh;
   /* display: grid;
   grid-template-columns: repeat(10, 100px);
@@ -31,7 +31,7 @@ a{
 }
 
 .header-container > .nav{
-  border: 2px solid red;
+  /* border: 2px solid red; */
   display: flex;
   justify-content: space-between;
   padding-top: 2em;
@@ -39,7 +39,7 @@ a{
 
 .nav > .navigation{
   display: flex;
-  border: 1px solid blueviolet;
+  /* border: 1px solid blueviolet; */
   width: 80vw;
   justify-content: space-around;
   align-items: center;
@@ -52,7 +52,7 @@ a{
 .header-container > .header-content{
   display: flex;
   flex-direction: column;
-  border: 4px solid white;
+  /* border: 4px solid white; */
   height: 30vh;
   justify-content: center;
   align-items: center;
@@ -65,13 +65,12 @@ a{
   height: 55%;
   display: flex;
   justify-content: center;
-  
 
 }
 
 .container-second > .container-second-inner{
   width: 50%;
-  border: 2px solid black;
+  /* border: 2px solid black; */
   display: flex;
   flex-direction: column;
   /* justify-content: center; */
@@ -87,7 +86,7 @@ a{
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  border: 1px solid greenyellow;
+  /* border: 1px solid greenyellow; */
   background-color: #dfe4dd;
 }
 
@@ -114,7 +113,7 @@ a{
 }
 
 .user{
-  border: 1px solid white;
+  /* border: 1px solid white; */
   display: flex;
 }
 
@@ -125,7 +124,7 @@ a{
 
 .name-time-comment{
   display: flex;
-  border: 1px solid white;
+  /* border: 1px solid white; */
   height: 100%;
   align-items: baseline;
   width: 200%;
