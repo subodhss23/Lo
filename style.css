@@ -92,7 +92,7 @@ a{
 
 .container-third-inner{
   width: 50%;
-  border: 1px solid red;
+  /* border: 1px solid red; */
   text-align: center;
   height: 60%;
   background-color: lightgrey;
@@ -104,7 +104,7 @@ a{
 }
 
 .container-third-inner > .users{
-  border: 1px solid black;
+  /* border: 1px solid black; */
 }
 
  .img-1{
